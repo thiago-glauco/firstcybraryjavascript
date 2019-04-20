@@ -1,3 +1,6 @@
 h1, h2 {
   font-family: Lato;
 }
+h2 {
+  text-align: center;
+}
